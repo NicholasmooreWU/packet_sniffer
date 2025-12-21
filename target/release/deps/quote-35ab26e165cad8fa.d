@@ -1,0 +1,13 @@
+/home/nmoore/packet_sniff/target/release/deps/quote-35ab26e165cad8fa.d: /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/lib.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/ext.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/format.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/ident_fragment.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/to_tokens.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/runtime.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/spanned.rs
+
+/home/nmoore/packet_sniff/target/release/deps/libquote-35ab26e165cad8fa.rlib: /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/lib.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/ext.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/format.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/ident_fragment.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/to_tokens.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/runtime.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/spanned.rs
+
+/home/nmoore/packet_sniff/target/release/deps/libquote-35ab26e165cad8fa.rmeta: /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/lib.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/ext.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/format.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/ident_fragment.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/to_tokens.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/runtime.rs /home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/spanned.rs
+
+/home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/lib.rs:
+/home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/ext.rs:
+/home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/format.rs:
+/home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/ident_fragment.rs:
+/home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/to_tokens.rs:
+/home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/runtime.rs:
+/home/nmoore/.cargo/registry/src/github.com-25cdd57fae9f0462/quote-1.0.42/src/spanned.rs:
